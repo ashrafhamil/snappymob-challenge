@@ -1,0 +1,2 @@
+# snappymob-challenge
+practise dockerize
